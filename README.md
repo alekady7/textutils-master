@@ -1,3 +1,7 @@
+#Updated: 
+1. Applied router-dom funcitonality
+2. color of login button
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
